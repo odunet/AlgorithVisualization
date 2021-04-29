@@ -7,7 +7,9 @@ This is an Algorithm visualizer build with JavaScript (P5js Library).
 ## Alogrithms Implemented
 
 - Bubble Sort Algorithm
+  ![bubble](./image/bubbleSort2.gif)
 - Insertion Sort Algorithm
+  ![insertion](./image/insertionSort2.gif)
 
 ## License
 
