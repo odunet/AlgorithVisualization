@@ -2,7 +2,7 @@
 
 ## Summary
 
-This is an Algorithm visualizer build with JavaScript (P5js Library).
+This is an Algorithm visualizer built with JavaScript (P5js Library).
 
 ## Alogrithms Implemented
 
